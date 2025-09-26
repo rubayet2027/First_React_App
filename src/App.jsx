@@ -16,8 +16,6 @@ function App() {
   );
 }
 // https://openapi.programming-hero.com/api/all
-// https://openapi.programming-hero.com/api/alpha/116
-// https://openapi.programming-hero.com/api/lang/english
-// https://openapi.programming-hero.com/api/name/bangladesh
+
 
 export default App;
